@@ -6,7 +6,7 @@
  
  **Email: httsf@hhu.edu.cn**
  
- **Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing**
+ **Office:Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing**
  
  <img src="/hangtingting.jpg">
 
