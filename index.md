@@ -1,5 +1,4 @@
 ### Hang Tingting
-___
 
  **PhD students**
  
