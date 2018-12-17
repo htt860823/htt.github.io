@@ -1,6 +1,6 @@
 
 ### Hang Tingting
-<table>
+
  <tr>
     <td>
       <p><b>PhD students</b>
@@ -12,7 +12,7 @@
       <img src="/hangtingting.jpg">
     </td>
   </tr>
-</table>
+
 
 ### About
 ___
