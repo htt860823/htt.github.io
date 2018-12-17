@@ -1,6 +1,5 @@
 
 ### Hang Tingting
-———
 **PhD students**
 
 **College of Computer and Information, Hohai University**
