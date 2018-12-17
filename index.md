@@ -12,12 +12,12 @@ Hang Tingting studied in the College of Computer and Information, hohai Universi
 
 
 ### Research Interests
+___
 - **Knowledge Graph**
 
 
 ### Journal Papers
 ___
-
 
 
 ### Conference Papers
@@ -28,7 +28,7 @@ ___
 
 ### Project
 ___
-1.  2018,the Outstanding Young Talents Support Program of Anhui Provincial.
+1.  2018, the Outstanding Young Talents Support Program of Anhui Provincial.
 
 
 ### Patents
