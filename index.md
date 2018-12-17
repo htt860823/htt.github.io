@@ -24,7 +24,7 @@ ___
 
 ### Journal Papers
 ___
-1. 
+
 
 ### Conference Papers
 ___
