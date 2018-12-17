@@ -25,7 +25,6 @@ ___
 - **Knowledge Graph**
 
 ## Publications
-___
 ### Journal Papers
 
 
