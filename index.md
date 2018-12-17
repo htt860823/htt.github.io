@@ -1,5 +1,5 @@
 
-<table border="0">
+<table>
   <tr>
     <td>
       <h2>Hang Tingting</h2>
@@ -12,7 +12,7 @@
       <img src="/hangtingting.jpg" width="100%" height="20%">
     </td>
   </tr>
-</table>
+</table>  
 
 ### About
 ___
