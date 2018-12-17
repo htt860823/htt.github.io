@@ -1,10 +1,18 @@
-## Hang Tingting
-**College of Computer and Information, Hohai University**
 
-**Email: httsf@hhu.edu.cn**
-
-**Office: Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing**
-
+<table border="0">
+  <tr>
+    <td>
+      <h2>Hang Tingting</h2>
+      <p><b>硕士研究生</b>
+      <p><b>College of Computer and Information, Hohai University</b>
+      <p><b>Email: httsf@hhu.edu.cn</b>
+      <p><b>Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing</b>
+    </td>
+    <td width="25%">
+      <img src="/hangtingting.jpg" width="100%" height="20%">
+    </td>
+  </tr>
+</table>
 
 ### About
 ___
