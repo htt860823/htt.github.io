@@ -1,14 +1,21 @@
 
 ### Hang Tingting
-**PhD students**
+<table>
+ <tr>
+    <td>
+      <p><b>PhD students</b>
 
-**College of Computer and Information, Hohai University**
+      <p></b>College of Computer and Information, Hohai University</b>
 
-**Email: httsf@hhu.edu.cn**
+      <p></b>Email: httsf@hhu.edu.cn</b>
 
-**Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing**
-
-![Image](/hangtingting.jpg)
+      <p></b>Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing</b>
+    </td>
+    <td>
+      ![Image](/hangtingting.jpg)
+    </td>
+  </tr>
+</table>
 
 ### About
 ___
