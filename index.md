@@ -4,9 +4,9 @@
  <tr>
     <td>
       <p><b>PhD students</b>
-      <p></b>College of Computer and Information, Hohai University</b>
-      <p></b>Email: httsf@hhu.edu.cn</b>
-      <p></b>Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing</b>
+      <p><b>College of Computer and Information, Hohai University</b>
+      <p><b>Email: httsf@hhu.edu.cn</b>
+      <p><b>Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing</b>
     </td>
     <td>
       <img src="/hangtingting.jpg">
