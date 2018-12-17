@@ -31,12 +31,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ### Journal Papers
-1. **Hang T.**, Feng J#., Li X., Yan L. water sound recognition based on support vector machine,
-13th Conference ICUIMC (IMCOM) 2019, Phuket, Thailand, 2019,1.4-1.6（accepted，EI检索）
+
 
 ### Conference Papers
-
-
+1. **Hang T.**, Feng J#., Li X., Yan L. water sound recognition based on support vector machine,
+13th Conference ICUIMC (IMCOM) 2019, Phuket, Thailand, 2019,1.4-1.6（accepted）
+2.Yan L., Feng J. and **Hang T**. Small Watershed Stream-flow Forecasting Based on LSTM.13th Conference ICUIMC (IMCOM) 2019, Phuket, Thailand, 2019,1.4-1.6（accepted）
 
 ### Project
 
