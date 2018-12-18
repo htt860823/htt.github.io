@@ -49,7 +49,7 @@ ___
 
 
 <body>
-    <div class="text" style=" text-align:center"<b>CopyRight@Hang Tingting</b></div>
+    <div class="text" style="text-align:center"<b>CopyRight@Hang Tingting</b></div>
 </body>
       
 
