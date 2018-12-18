@@ -11,8 +11,8 @@
     <td>
       <img src="/hangtingting.jpg" >
     </td>
-    <a href=/index-cn.md>[中文版]</a>
   </tr>
+  <a href=/index-cn.md>[中文版]</a>
 </table>
 </div>
 
