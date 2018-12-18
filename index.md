@@ -7,7 +7,7 @@
       <p><b>College of Computer and Information, Hohai University</b></p>
       <p><b>Email:httsf@hhu.edu.cn</b></p>
       <p><b>Office:Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing</b></p>
-      <a href=/index-cn.md>[中文版]</a>
+      <a href=/index-cn.md>中文版</a>
     </td>
     <td>
       <img src="/hangtingting.jpg" >
