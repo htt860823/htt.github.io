@@ -7,7 +7,7 @@
       <p><b>河海大学计算机与信息学院</b></p>
       <p><b>邮箱:httsf@hhu.edu.cn</b></p>
       <p><b>地址：江苏省南京市江宁区佛城西路8号，勤学楼3310，邮编211106</b></p>
-      <p><b><a href="/index.md">[English Version]</a></b></p>
+      <p><a href="/index.md">[English Version]</a></p>
     </td>
     <td>
       <img src="/hangtingting.jpg" >
