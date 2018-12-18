@@ -48,8 +48,6 @@ ___
 2. Feng J.,Guo T.,**Hang T.**,Li X. A method for measuring the similarity of time-series of time-space multivariate hydrology. ZL201810203059.9.(National Invention Patent, China) 
 
 
-<body>
-    <div class="text" style="text-align:center"<b>CopyRight@Hang Tingting</b></div>
-</body>
+<center><p>Copyright © Hang Tingting</p></center>
       
 
