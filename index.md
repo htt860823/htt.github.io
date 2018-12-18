@@ -47,8 +47,9 @@ ___
 1. Feng J.,**Hang T.**,Guo T.,Li X.,Zhu Y. A Flood Forecasting Method for Small and Medium Rivers and Its Forecasting System Based on Multi-feature Fusion Technology. ZL201810071703.1.(National Invention Patent, China)
 2. Feng J.,Guo T.,**Hang T.**,Li X. A method for measuring the similarity of time-series of time-space multivariate hydrology. ZL201810203059.9.(National Invention Patent, China) 
 
-<body>
-       <div id="footer">CopyRight@Hang Tingting</div>
-</body>
 
+<body>
+    <div class="text" style=" text-align:center;"<b>CopyRight@Hang Tingting</b></div>
+</body>
+      
 
